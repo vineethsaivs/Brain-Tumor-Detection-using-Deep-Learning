@@ -1,0 +1,5 @@
+CNN Model Architecture
+
+Accuracy score:  0.9770 
+
+
